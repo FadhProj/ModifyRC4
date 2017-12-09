@@ -18,6 +18,8 @@ namespace RC4
             StreamRC4 r = new StreamRC4(key);
             r.encrypt(ref message);
 
+            
+
             Console.WriteLine(" ");
             Console.WriteLine("=====================================");
             Console.WriteLine(" ");
