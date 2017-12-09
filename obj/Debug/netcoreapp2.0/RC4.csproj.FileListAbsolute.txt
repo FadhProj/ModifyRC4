@@ -1,0 +1,10 @@
+D:\Fadhlan\RC4\obj\Debug\netcoreapp2.0\RC4.csproj.CoreCompileInputs.cache
+D:\Fadhlan\RC4\obj\Debug\netcoreapp2.0\RC4.AssemblyInfoInputs.cache
+D:\Fadhlan\RC4\obj\Debug\netcoreapp2.0\RC4.AssemblyInfo.cs
+D:\Fadhlan\RC4\bin\Debug\netcoreapp2.0\RC4.deps.json
+D:\Fadhlan\RC4\bin\Debug\netcoreapp2.0\RC4.runtimeconfig.json
+D:\Fadhlan\RC4\bin\Debug\netcoreapp2.0\RC4.runtimeconfig.dev.json
+D:\Fadhlan\RC4\bin\Debug\netcoreapp2.0\RC4.dll
+D:\Fadhlan\RC4\bin\Debug\netcoreapp2.0\RC4.pdb
+D:\Fadhlan\RC4\obj\Debug\netcoreapp2.0\RC4.dll
+D:\Fadhlan\RC4\obj\Debug\netcoreapp2.0\RC4.pdb
